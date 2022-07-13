@@ -8,6 +8,11 @@
 
 Projeto para estudo colaborativo das tecnologias inicialmente apresentadas no programa GODEV.
 
+
+Utilize uma branch separada!
+Nunca use a branch principal para criar features! Por favor! rs
+=======
 Gustavo editou aqui kkkkk
 
 # Teste branch
+
